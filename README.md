@@ -3,10 +3,7 @@
 
 ## Resume
 
-Java
-
-Spring Boot
-
-Spring Data
-
-H2
+    Java
+    Spring Boot
+    Spring Data
+    H2
