@@ -1,7 +1,7 @@
-# costumer
+# Costumer
  Small customer registration
 
-##Resume
+## Resume
 
 Java
 Spring Boot
