@@ -7,6 +7,6 @@
 * Spring Boot
 * Spring Data
 * H2
-# To run
+## How to run
 
 `mvn spring-boot:run`
