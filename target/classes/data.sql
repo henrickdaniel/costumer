@@ -1,4 +1,0 @@
-insert into COSTUMER (ID_COSTUMER, CONTACT, IDENTIFICATION, NAME, PAID, TO_PAID) VALUES (NULL,  'hernickdaniel@gmail.com', '91185670106', 'Henrick Daniel Soares', null, null)
-insert into COSTUMER (ID_COSTUMER, CONTACT, IDENTIFICATION, NAME, PAID, TO_PAID) VALUES (NULL,  'hernickdaniel@gmail.com', '91185670106', 'Ana Clara Soares', null, null)
-insert into COSTUMER (ID_COSTUMER, CONTACT, IDENTIFICATION, NAME, PAID, TO_PAID) VALUES (NULL,  'hernickdaniel@gmail.com', '91185670106', 'Fatima Aparecida Soares', null, null)
-insert into COSTUMER (ID_COSTUMER, CONTACT, IDENTIFICATION, NAME, PAID, TO_PAID) VALUES (NULL,  'hernickdaniel@gmail.com', '91185670106', 'Germano Picarte Soares', null, null)
