@@ -6,6 +6,7 @@
 * Java
 * Spring Boot
 * Spring Data
+* Spring Boot Actuator
 * H2
 * Lombok
 * docker-maven-plugin
@@ -22,3 +23,7 @@
 ## Swagger 
 
 `http://localhost:8080/swagger-ui.html`
+
+## Actuator
+
+`http://localhost:8080/actuator`
