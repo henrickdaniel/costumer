@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.soares.costumer.model.Costumer;
 import com.soares.costumer.repository.CostumerRepository;
 
+
 @RestController
 @RequestMapping("/api")
 public class CostumerController {
