@@ -1,5 +1,5 @@
 # Costumer
- Small customer registration
+ Customer registration, for demonstrate the Spring Cloud.
 
 ## Resume
 
@@ -14,7 +14,10 @@
 
 ## How to run
 
+To use Spring Cloud first you download the costumer-config-server, costumer-eureka-server and costumer-zuul-server, run all with.
+
 `mvn spring-boot:run`
+
 
 ## Create docker image
 
